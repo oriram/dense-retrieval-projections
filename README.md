@@ -4,7 +4,7 @@ The paper [*What Are You Token About?* Dense Retrieval as Distributions Over the
 
 In the paper, we propose to interpret the vector representations produced by dual encoders by projecting them into the model’s vocabulary space, and show nice properties of these projections.
 
-[We created a notebook that examplifies how to project representations to the vocabluray space.](https://colab.research.google.com/drive/1GNwG7rUV2AgyDm7Na4r8dOZTrLYHFEkA?authuser=1#scrollTo=Eu2i3eji6ibP).
+[We created a notebook that examplifies how to project representations to the vocabluray space.](https://colab.research.google.com/drive/1GNwG7rUV2AgyDm7Na4r8dOZTrLYHFEkA?usp=sharing).
 
 Please feel free to open issues if you have any questions.
 
